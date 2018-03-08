@@ -1,0 +1,23 @@
+{
+	"name": "npm",
+	"version": "1.0.0",
+	"description": "rtgerat",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/emas130/npm.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/emas130/npm/issues"
+	},
+	"homepage": "https://github.com/emas130/npm#readme",
+	"dependencies": {
+		"colors": "^1.1.2"
+	}
+}
